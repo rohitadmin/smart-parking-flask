@@ -11,4 +11,4 @@ sensors used: infrared sensor, Passive infrared sensor, Ultrasonic sensors, serv
 Computer machine: Raspberry pi zero W
 computer vision: Tensorflow for license plate detection and recognition
 
-# This project I have implemented during my Master degree program Mtech (CSE) which is presented at International Confrence CICBA JAN 2021.
+# This project I have implemented during my Master degree program Mtech (CSE) which is punblished @ SN computer science Journal and Granted a German Patent and Trade Mark Office (Deutsches Patent- und Markenamt)
